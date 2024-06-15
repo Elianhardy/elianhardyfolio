@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
   },
-  "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
+  "homepage": "http://elianhardy.github.io/elianhardyfolio",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
